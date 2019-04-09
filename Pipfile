@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+autopep8 = "*"
+pylint = "*"
+pep8 = "*"
+
+[packages]
+chaostoolkit-lib = "*"
+pycodestyle = "*"
+python-novaclient = "*"
+chaostoolkit = "*"
+
+[requires]
+python_version = "3.6"
