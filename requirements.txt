@@ -1,5 +1,5 @@
 babel==2.6.0
-certifi==2019.3.9
+certifi==2022.12.7
 chaostoolkit-lib==1.1.2
 chardet==3.0.4
 debtcollector==1.21.0
